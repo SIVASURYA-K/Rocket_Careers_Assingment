@@ -1,0 +1,177 @@
+.container-fluid{
+    width: 100%;
+    height: 890px;
+    background: #2F1893;
+
+}
+.container{
+    width: 80%;
+    height: 840px;
+    margin: auto;
+    background:none;
+    padding-top: 50px;
+}
+.header{
+    width: 972px;
+    height: 40px;
+    background-color: none;
+    margin: auto;
+}
+.name{
+    width: 111px;
+    height: 19px;
+    background-color: none;
+    float: left;
+    margin-top: 10px;
+    color: white;
+}
+
+.menu{
+    width: 503px;
+    height: 40px;
+    background-color: none;
+    float: right;
+  
+}
+
+.menu button{
+    width: 120px;
+    height: 40px;
+    border-radius: 100px;
+    color: white;
+    background-color: rgb(255, 126, 126);
+    cursor: pointer;
+    border: none;
+   
+
+}
+
+.menu a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+    padding-right: 30px;
+    font-size: 16px;
+}
+
+#Overview{
+    opacity: 30%;
+}
+
+.con{
+    width: 940px;
+    height: 600px;
+    background-color: none;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.left{
+    width: 427px;
+    height: 496px;
+    background-color:none;
+    float: left;
+    padding-left: 10px;
+    padding-top: 50px;
+
+}
+
+.right{
+    width: 470px;
+    height: 600px;
+    background-color:white;
+    float: right;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.left h1{
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 40px;
+    font-weight: 700;
+}
+.left p{
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 28px;
+    font-weight: 500;
+    font-size:19px;
+    padding-top: 20px;
+  
+}
+
+.left button{
+    width: 120px;
+    height: 40px;
+    border-radius: 100px;
+    color: white;
+    background-color: rgb(255, 126, 126);
+    cursor: pointer;
+    border: none;
+    margin-top: 50px;
+   
+}
+
+
+.sing{
+    font-size: 30px;
+    color: #1E0E62;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+
+#inp{
+   width: 330px;
+   height: 50px;
+   border-radius: 100px;
+   margin-bottom: 30px;
+}
+
+ #tick{
+     background-color: aqua;
+   
+    }
+ 
+
+ .right button{
+    width: 330px;
+    height: 50px;
+    border-radius: 100px;
+    font-family: sans-serif;
+    color: white;
+    border: hidden;
+    
+ }
+ .right ::placeholder{
+    font-family: sans-serif;
+    padding-left: 10px;
+ }
+ .one{
+    opacity: 50%;
+    margin-bottom: 30px;
+ }
+ #sing{
+    background-color: #482BE7;
+    margin-bottom: 20px;
+ 
+ }
+ #twitter{
+    background-color: #1DA1F2;
+    margin-bottom: 20px;
+    
+ }
+ 
+ hr{
+    width: 310px;
+
+ }
+ .or{
+   
+    margin-top: -22px ;
+    opacity: 50%;
+ }
+ .acc{
+    font-family: sans-serif;
+    opacity: 50%;
+ }
